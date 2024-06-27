@@ -3,7 +3,7 @@
   <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg"
        alt="snake" />
   </div>
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=shamhi&label=Profile%20Visits&style=for-the-badge" />
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=DARKM00N1337&label=Profile%20Visits&style=for-the-badge" />
   <br>
   <a href="https://t.me/sh4mh1">
     <img src="https://img.shields.io/endpoint?url=https://runkit.io/damiankrawczyk/telegram-badge/branches/master?url=https://t.me/darkm00n_fuck&style=for-the-badge" alt="Telegram channel">
