@@ -34,10 +34,10 @@
 <div id="stats" align="center" style="display: flex; flex-direction: column;">
     <h2>:fire: My Stats</h2>
     <a style="display: flex; align-items: center;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shamhi&theme=dark" alt="GitHub Profile Summary" style="margin-bottom: 10px;" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DARKM00N1337&theme=dark" alt="GitHub Profile Summary" style="margin-bottom: 10px;" />
     </a>
     <a style="display: flex;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shamhi&theme=dark" style="margin-right: 10px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DARKM00N1337&theme=dark" style="margin-right: 10px;">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shamhi&theme=dark">
     </a>
 </div>
