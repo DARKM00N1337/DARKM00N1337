@@ -6,7 +6,7 @@
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=DARKM00N1337&label=Profile%20Visits&style=for-the-badge" />
   <br>
   <a href="https://t.me/darkm00n_fuck">
-    <img src="https://img.shields.io/endpoint?url=https://runkit.io/damiankrawczyk/telegram-badge/branches/master?url=https://t.me/darkm00n_fuck&style=for-the-badge" alt="Telegram channel">
+    <img src="https://img.shields.io/endpoint?url=https://telegram-badge-4mbpu8e0fit4.runkit.sh/?url=https://t.me/darkm00n_fuck&style=for-the-badge" alt="Telegram channel">
   </a>
 </div>
 
