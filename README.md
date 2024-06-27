@@ -38,7 +38,7 @@
     </a>
     <a style="display: flex;">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DARKM00N1337&theme=dark" style="margin-right: 10px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shamhi&theme=dark">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DARKM00N1337&theme=dark">
     </a>
 </div>
 
