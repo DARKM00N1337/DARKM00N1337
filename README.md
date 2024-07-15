@@ -1,28 +1,83 @@
 <div align="center">
   <div align="center">
-  <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg"
-       alt="snake" />
+    <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F60000&center=true&vCenter=true&repeat=false&width=435&lines=DARKM00N1337's+Profile" alt="Typing SVG" />
+</a>
+ <br>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=8b00ff&center=true&vCenter=true&width=435&lines=Demon+eater&repeat=true" alt="Typing SVG" />
+</a>
+
+
+  <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+      />
+      <img
+        alt="github contribution grid snake animation"
+        src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+      />
+  </picture>
+   
   </div>
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=ff0000&center=true&vCenter=true&repeat=false&width=435&lines=My+social+networks" alt="Typing SVG" />
+</a>
+ <br>
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=DARKM00N1337&label=Profile%20Visits&style=for-the-badge" />
   <br>
+  <a href="https://t.me/x1darkm00n1x">
+    <img src="https://img.shields.io/badge/Telegram-profile-link?style=for-the-badge&logo=telegram&labelColor=%230063c7&color=%230063c7" alt="Telegram user Badge"/>
+  </a>
+  <br>
   <a href="https://t.me/darkm00n_fuck">
-    <img src="https://img.shields.io/endpoint?url=https://telegram-badge-4mbpu8e0fit4.runkit.sh/?url=https://t.me/darkm00n_fuck&style=for-the-badge" alt="Telegram channel">
+    <img src="https://img.shields.io/badge/Telegram-my%20channel-link?style=for-the-badge&logo=telegram&labelColor=%230063c7&color=%230063c7" alt="Telegram Chat Badge"/>
+  </a>
+<br>
+   
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=0000ff&center=true&vCenter=true&repeat=false&width=435&lines=Crypto+bot+codding+team" alt="Typing SVG" />
+</a>
+<br>
+  <a href="https://t.me/+YpdF8y4lxIU5NGY0">
+    <img src="https://img.shields.io/badge/Telegram-Codding%20team%20channel-link?style=for-the-badge&logo=telegram&labelColor=%230063c7&color=%230063c7" alt="Telegram Channel Badge"/>
+  </a>
+
+  <a href="https://t.me/hidden_codding_chat">
+    <img src="https://img.shields.io/badge/Telegram-Codding%20team%20chat-link?style=for-the-badge&logo=telegram&labelColor=%230063c7&color=%230063c7" alt="Telegram Chat Badge"/>
   </a>
 </div>
 
 <div align="center" style="display: flex; align-items: center;">
-  <h3>:hammer_and_wrench: Languages and Tools</h3>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00ff00&center=true&vCenter=true&repeat=false&width=435&lines=Languages" alt="Typing SVG" />
+</a>
+ <br>
+
+  <img src="https://skillicons.dev/icons?i=py,cpp,java,php,js,html" />
+</div>
+
+<div align="center" style="display: flex; align-items: center;">
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00ff00&center=true&vCenter=true&repeat=false&width=435&lines=Tools" alt="Typing SVG" />
+</a>
+ <br>
+
+  <img src="https://skillicons.dev/icons?i=bash,git,vscode,pycharm" />
 </div>
 
 
 <div id="stats" align="center" style="display: flex; flex-direction: column;">
-    <h2>:fire: My Stats</h2>
+    
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=435&lines=My+stats" alt="Typing SVG" />
+</a>
+ <br>
     <a style="display: flex; align-items: center;">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DARKM00N1337&theme=dark" alt="GitHub Profile Summary" style="margin-bottom: 10px;" />
     </a>
@@ -32,5 +87,4 @@
     </a>
 </div>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
