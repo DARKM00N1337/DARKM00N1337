@@ -3,10 +3,11 @@
     <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F60000&center=true&vCenter=true&repeat=false&width=435&lines=DARKM00N1337's+Profile" alt="Typing SVG" />
 </a>
- <br>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=8b00ff&center=true&vCenter=true&width=435&lines=Demon+eater&repeat=true" alt="Typing SVG" />
+
 </a>
+<br>
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=DARKM00N1337&label=Profile%20Visits&style=for-the-badge" />
+  <br>
 
 
   <picture>
@@ -29,13 +30,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=ff0000&center=true&vCenter=true&repeat=false&width=435&lines=My+social+networks" alt="Typing SVG" />
 </a>
  <br>
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=DARKM00N1337&label=Profile%20Visits&style=for-the-badge" />
-  <br>
   <a href="https://t.me/x1darkm00n1x">
     <img src="https://img.shields.io/badge/Telegram-profile-link?style=for-the-badge&logo=telegram&labelColor=%230063c7&color=%230063c7" alt="Telegram user Badge"/>
   </a>
   <br>
-  <a href="https://t.me/darkm00n_fuck">
+  <a href="https://t.me/+ay4ZqcOFQbs3YTli">
     <img src="https://img.shields.io/badge/Telegram-my%20channel-link?style=for-the-badge&logo=telegram&labelColor=%230063c7&color=%230063c7" alt="Telegram Chat Badge"/>
   </a>
 <br>
